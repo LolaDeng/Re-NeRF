@@ -6,9 +6,9 @@
 
 https://github.com/apchenstu/TensoRF
 
-## Install env (from https://github.com/apchenstu/TensoRF) 
+## Prep
 
-Install environment:
+Install environment(from https://github.com/apchenstu/TensoRF) :
 ```
 conda create -n TensoRF python=3.8
 conda activate TensoRF
