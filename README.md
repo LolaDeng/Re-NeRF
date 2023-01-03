@@ -1,3 +1,4 @@
+# Re-NeRF
 - an example implementation of Re:NeRF, a 3D compression method designed for NeRF techniques 
 - this repository is tailered for TensoRF (project page: https://github.com/apchenstu/TensoRF) but can be modified to fit other NeRFs
 
