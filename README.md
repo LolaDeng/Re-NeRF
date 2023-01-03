@@ -5,7 +5,7 @@
 
 https://github.com/apchenstu/TensoRF
 
-## install env (from https://github.com/apchenstu/TensoRF) 
+## Install env (from https://github.com/apchenstu/TensoRF) 
 
 Install environment:
 ```
@@ -21,7 +21,8 @@ Dataset
 * [Tanks&Temples](https://dl.fbaipublicfiles.com/nsvf/dataset/TanksAndTemple.zip)
 * [Forward-facing](https://drive.google.com/drive/folders/128yBriW1IG_3NJ5Rp7APSTZsJqdJdfc1)
 
-* pretrained models available on TensoRF repo
+
+pretrained models available on TensoRF repo
 
 https://1drv.ms/u/s!Ard0t_p4QWIMgQ2qSEAs7MUk8hVw?e=dc6hBm
 
